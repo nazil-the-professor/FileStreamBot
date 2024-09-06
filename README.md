@@ -6,7 +6,7 @@
    
   <p align="center">
     A Telegram bot to all media and documents files to web link .
-    <br />
+    <br /> 
    </strong></a>
     <br /> 
     <a href="https://github.com/Avipatilpro/FileStreamBot/issues">Report a Bug</a>
