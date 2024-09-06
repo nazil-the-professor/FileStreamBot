@@ -1,4 +1,4 @@
-<h1 align="center">FileStreamBot</h1>
+ <h1 align="center">FileStreamBot</h1>
 <p align="center">
   <a href="https://github.com/Avipatilpro/FileStreamBot">
     <img src="https://socialify.git.ci/avipatilpro/FileStreamBot/image?description=1&descriptionEditable=Telegram%20File%20to%20Link%20Fastest%20Bot%20%2C%20also%20used%20for%20Movies%20streaming%20Generate%20Direct%20Links&font=KoHo&forks=1&logo=https%3A%2F%2Fi.ibb.co%2FZJzJ9Hq%2Flink-3x.png&pattern=Brick%20Wall&stargazers=1&theme=Dark" alt="Cover Image" width="550">
