@@ -8,7 +8,7 @@
     A Telegram bot to all media and documents files to web link .
     <br />
    </strong></a>
-    <br />
+    <br /> 
     <a href="https://github.com/Avipatilpro/FileStreamBot/issues">Report a Bug</a>
     |
     <a href="https://github.com/Avipatilpro/FileStreamBot/issues">Request Feature</a>
